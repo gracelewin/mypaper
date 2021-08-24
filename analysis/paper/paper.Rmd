@@ -1,9 +1,9 @@
 ---
 title: "Title Goes Here"
 author:
-  - Myfirstname Mylastname:
-      email: fl@oneplace.edu
-      institute: [UofO]
+  - Grace Lewin:
+      email: glewin@ucsb.edu
+      institute: [UCSB]
       correspondence: true
   - Yourfirstname Yourlastname:
       email: fl@another.edu
@@ -60,6 +60,7 @@ knitr::opts_chunk$set(
 Here is a citation [@Marwick2017]
 
 # Background
+We did a lot of background research before doing this research. And here is why you should care about this cool research we did.
 
 # Methods
 
