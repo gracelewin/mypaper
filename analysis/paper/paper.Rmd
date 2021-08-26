@@ -1,5 +1,5 @@
 ---
-title: "Title Goes Here"
+title: "The most amazing paper everrrr"
 author:
   - Grace Lewin:
       email: glewin@bren.ucsb.edu
