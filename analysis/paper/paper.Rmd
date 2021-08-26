@@ -2,7 +2,7 @@
 title: "Title Goes Here"
 author:
   - Grace Lewin:
-      email: glewin@bren.ucsb.edu
+      email: glewin@bren.ucsb
       institute: [UCSB]
       correspondence: true
   - Yourfirstname Yourlastname:
